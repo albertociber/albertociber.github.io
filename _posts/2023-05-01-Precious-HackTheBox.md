@@ -5,7 +5,7 @@ excerpt: "Maquina HTB de dificultad facil, en esta maquina se ve como realizar u
 show_date: true
 classes: wide
 header:
-  icon: assets/images/HackTheBox-icon.png
+  icon: /assets/images/HackTheBox-icon.png
 future: true
 published: true
 ---
