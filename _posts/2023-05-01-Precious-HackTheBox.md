@@ -11,6 +11,7 @@ header:
 categories:
   - HackTheBox - Easy
 ---
+![Precious](/assets/images/CTFs/Precious-HTB/header.png)
 
 # Enumeración 🔎
 
