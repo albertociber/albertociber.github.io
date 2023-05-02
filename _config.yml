@@ -131,6 +131,12 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: ""
+    - label: "HackTheBox"
+      icon: "simple-icons:hackthebox"
+      url: ""
+    - label: "TryHackMe"
+      icon: "simple-icons:tryhackme"
+      url: "https://tryhackme.com/p/albertorciber"
 
 # Site Footer
 footer:
