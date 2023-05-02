@@ -9,7 +9,8 @@ header:
   teaser_home_page: true  
   icon: /assets/images/HackTheBox-icon.png
 categories:
-  - HackTheBox - Easy
+  - HackTheBox 
+  - Easy
 ---
 ![Precious](/assets/images/CTFs/Precious-HTB/header.png)
 
