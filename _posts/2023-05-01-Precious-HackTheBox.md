@@ -5,14 +5,11 @@ excerpt: "Maquina HTB de dificultad facil, en esta maquina se ve como realizar u
 show_date: true
 classes: wide
 header:
-  teaser: /assets/images/HackTheBox-icon.png
+  teaser: /assets/images/CTFs/Precious-HTB/icon.png
   teaser_home_page: true  
   icon: /assets/images/HackTheBox-icon.png
-  icon_home_page: true
 categories:
-  - HackTheBox
-  - Easy
-  - Writeup
+  - HackTheBox - Easy
 ---
 
 # Enumeración 🔎
