@@ -58,7 +58,7 @@ Vemos que ha sido generado por una herramienta: `pdfkit v0.8.6`. La cuál si hac
 
 ![image](/assets/images/CTFs/Precious-HTB/09.png)
 
-Tras informarme más sobre este CVE, podemos saber que tenemos que introducir el parametro `name` y dentro usar los ``backticks`` para inyectar nuestro comando.<br>
+Tras informarme más sobre este CVE, podemos saber que tenemos que introducir el parametro `name` y dentro usar los ```backticks``` para inyectar nuestro comando.<br>
 - Para saber más sobre CVE-2022-25765:<br>
 [https://security.snyk.io/vuln/SNYK-RUBY-PDFKIT-2869795 ](https://security.snyk.io/vuln/SNYK-RUBY-PDFKIT-2869795) 
 
@@ -143,7 +143,8 @@ Ahora podemos explotar con nuestro fichero `dependencies.yml`.
 
 ![image](/assets/images/CTFs/Precious-HTB/16.png)<br>
 ### dependencies.yml
-```YAML
+
+```yml
 - !ruby/object:Gem::Installer
     i: x
 - !ruby/object:Gem::SpecFetcher
