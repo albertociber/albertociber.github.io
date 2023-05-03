@@ -11,6 +11,9 @@ header:
 categories:
   - HackTheBox 
   - Easy
+tags:
+  - Web
+  - YAML
 ---
 ![Precious](/assets/images/CTFs/Precious-HTB/header.png)
 
