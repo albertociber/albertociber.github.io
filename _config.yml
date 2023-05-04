@@ -131,12 +131,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/alberto-reyess/"
-    - label: "HackTheBox"
-      icon: ""
-      url: "https://app.hackthebox.com/profile/1496907"
-    - label: "TryHackMe"
-      icon: ""
-      url: "https://tryhackme.com/p/albertorciber"
 
 # Site Footer
 footer:
