@@ -1,5 +1,5 @@
 ---
-title: "Blue THM Writeup"
+title: "Blue - TryHackMe"
 layout: single
 excerpt: "Maquina THM de dificultad facil, cual vamos a desplegar y hackear una máquina con Windows, aprovechando problemas comunes de mala configuración."
 show_date: true

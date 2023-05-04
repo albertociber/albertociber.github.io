@@ -1,5 +1,5 @@
 ---
-title: "BankCTF THM Writeup"
+title: "BankCTF - TryHackMe"
 layout: single
 excerpt: "Maquina THM de dificultad facil, en esta maquina para principiantes para hackear un nuevo banco."
 show_date: true

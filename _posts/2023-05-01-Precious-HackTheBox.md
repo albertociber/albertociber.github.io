@@ -1,5 +1,5 @@
 ---
-title: "Precious HTB Writeup"
+title: "Precious - HackTheBox"
 layout: single
 excerpt: "Maquina HTB de dificultad facil, en esta maquina se ve como realizar un exploit a una aplicación web vulnerable usando una ejecución remota de comandos y un servidor local. La escalada de privilegios se basa despues en la explotación de un privilegio de sudo a un archivo .yml."
 show_date: true

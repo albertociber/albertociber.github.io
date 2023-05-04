@@ -1,5 +1,5 @@
 ---
-title: "Kenobi THM Writeup"
+title: "Kenobi - TryHackMe"
 layout: single
 excerpt: "Maquina THM de dificultad facil, tutorial sobre la explotación de una máquina Linux. Se va utilizar Samba para recursos compartidos, manipular una versión vulnerable de proftpd y aumentar sus privilegios con la manipulación de variables de ruta."
 show_date: true
