@@ -19,6 +19,8 @@ tags:
 
 # Reconocimiento 🔎 
 
+---
+
 Como siempre realizamos un pequeño escaneo de puertos rápido con el siguiente comando buscando cualquier puerto abierto.
 
 ```bash
@@ -65,6 +67,9 @@ Tras informarme más sobre este CVE, podemos saber que tenemos que introducir el
 <br><br>
 
 # Explotación 🔑
+
+---
+
 Vamos a probar si funciona el exploit mencionado anteriormente:
 ```bash
 http://10.10.14.46/?name=%20`pwd`
@@ -124,6 +129,9 @@ Ahora pasamos a la siguiente fase para terminar con el CTF.
 <br><br>
 
 # Escalada de Privilegios 🚀
+
+---
+
 Ya teniendo acceso al usuario henry el siguiente paso sería escalar los privilegios a root.<br><br>
 Vamos a listar fichero que se ejecuta como root dentro del usuario henry:
 
