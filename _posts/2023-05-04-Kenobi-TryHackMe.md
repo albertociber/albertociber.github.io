@@ -5,7 +5,7 @@ excerpt: "Maquina THM de dificultad facil, tutorial sobre la explotación de una
 show_date: true
 classes: wide
 header:
-  teaser: /assets/images/CTFs/Kenobi-THM  /icon.png
+  teaser: /assets/images/CTFs/Kenobi-THM/icon.png
   teaser_home_page: true  
   icon: /assets/images/TryHackMe-icon.png
 categories:
